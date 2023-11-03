@@ -3,7 +3,7 @@ public class NestedIfElseDemo {
 
 		public static void main(String[] args) {
 			
-			int a=20,b=12,c=25;
+			int a=25,b=15,c=30;
 			if(a>b)  
 			{
 				if(a>c)//True

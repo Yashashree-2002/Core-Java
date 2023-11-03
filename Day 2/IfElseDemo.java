@@ -3,8 +3,7 @@ public class IfElseDemo {
 
 		public static void main(String[] args) {
 			
-			
-			int age=20;
+			int age=25;
 			
 			if(age>=18)
 			{

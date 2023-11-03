@@ -1,7 +1,8 @@
 
 public class DecisionMaking {
 		public static void main(String[] args) {
-			int x = 8, y = 7;
+			int x = 9;
+			int y = 5;
 			int a = 10;
 			int b = 11;
 
